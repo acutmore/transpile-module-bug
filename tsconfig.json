@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "verbatimModuleSyntax": false,
+        "importsNotUsedAsValues": "error",
+        "ignoreDeprecations": "5.0",
+        "module": "ESNext"
+    },
+    "files": [
+        "exports.ts"
+    ]
+}
